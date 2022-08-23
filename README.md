@@ -2,7 +2,7 @@
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work © 2022 by [Yiunfan Hu](https://github.com/croissantderp) is licensed under a
+All works related to 3D printing are by [Yiunfan Hu](https://github.com/croissantderp), and are licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
